@@ -1,1 +1,1 @@
-## just run npm install then node app.js to get this example running.
+##   npm install then node generateKeypair.js and then node app.js to get this example running.
