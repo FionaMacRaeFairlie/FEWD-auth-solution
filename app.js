@@ -41,5 +41,5 @@ app.use(require('./routes'));
  * -------------- SERVER ----------------
  */
 
-// Server listens on http://localhost:3000
-app.listen(3000);
+// Server listens on http://localhost:3001
+app.listen(3001);
